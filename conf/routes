@@ -1,0 +1,2 @@
+GET        /scala        controllers.HomeScalaController.index
+GET        /java         controllers.HomeJavaController.index
